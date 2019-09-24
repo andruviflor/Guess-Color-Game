@@ -1,0 +1,74 @@
+body{
+	background-color: white;
+	margin: 0;
+}
+
+.square{
+	width: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	float:left;
+	margin: 1.66%;
+	border-radius: 15%;
+	transition: background 0.5s;
+}
+
+#container{
+	max-width: 600px;
+	margin: 20px auto;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	line-height: 1.1;
+	margin: 0;
+	background: #808080;
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 25px;
+	padding: 20px 0;
+}
+
+#stripe{
+	background: white;
+	height: 30px;
+	text-align: center;
+	color: black;
+	padding: 5px 0;
+}
+
+.selected{
+	background:#808080;
+	color: white;
+	border: none;
+}
+
+#colorDisplay{
+	font-size: 35px;
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+button{
+	border: none;
+	color: #808080;
+	background: none;
+	text-transform: uppercase;
+	height:100%;
+	font-weight: 700;
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: inherit;
+	transition: all 0.3s;
+	outline: none;
+}
+
+#message{
+	display: inline-block;
+	width: 20%;
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 20px;
+}
+
+button:hover{
+	background:#808080;
+	color: white;
+}
