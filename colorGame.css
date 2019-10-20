@@ -41,6 +41,11 @@ h1{
 	color:red
 }
 
+.btn-danger{
+	font-size: 12px;
+	padding: 10px 24px;
+	border-radius: 8px;
+}
 #wrapper{
 	text-align: center;
 }
