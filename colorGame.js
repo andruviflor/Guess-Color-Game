@@ -21,7 +21,7 @@ function init(){
 }
 
 $('.popover-dismiss').popover({
-  trigger: 'instructions'
+  trigger: 'focus'
 })
 
 function setupModeButtons(){
