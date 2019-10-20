@@ -29,13 +29,6 @@ h1{
 	padding: 20px 0;
 }
 
-.btn btn-lg btn-danger{
-	background: red;
-	color:white;
-	font-size: 20px;
-	font-family: 'Julius Sans One', sans-serif;
-}
-
 #stripe{
 	background: white;
 	height: 30px;
