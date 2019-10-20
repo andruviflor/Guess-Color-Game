@@ -29,21 +29,10 @@ h1{
 	padding: 20px 0;
 }
 
-#instructions{
-	color:white;
-	background:black;
-	height: 30px;
-	text-align: center;
-	padding: 5px 0;	
-}
-
-#bold{
-	color:red
-}
 
 .btn-danger{
-	font-size: 12px;
-	padding: 10px 24px;
+	font-size: 10px;
+	padding: 8px 15px;
 	border-radius: 8px;
 	font-family: 'Julius Sans One', sans-serif;
 }
