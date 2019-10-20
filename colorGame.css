@@ -48,6 +48,9 @@ h1{
 	font-family: 'Julius Sans One', sans-serif;
 }
 
+btn-lg btn-danger{
+background:blue;
+}
 button{
 	border: none;
 	color: #808080;
