@@ -20,17 +20,6 @@ function init(){
 
 }
 
-$("#poplink").popover({
-    html: true,
-    placement: "right",
-    trigger: "hover",
-    title: function () {
-        return $(".pop-title").html();
-    },
-    content: function () {
-        return $(".pop-content").html();
-    }
-});
 
 function setupModeButtons(){
 	for(var i = 0; i < modeButtons.length; i++){
