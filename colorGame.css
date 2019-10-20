@@ -29,6 +29,10 @@ h1{
 	padding: 20px 0;
 }
 
+#wrapper{
+	text-align: center;
+}
+
 #stripe{
 	background: white;
 	height: 30px;
