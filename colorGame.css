@@ -25,13 +25,13 @@ h1{
 	margin: 0;
 	background: #808080;
 	font-family: 'Julius Sans One', sans-serif;
-	font-size: 25px;
+	font-size: 30px;
 	padding: 20px 0;
 }
 
 
 .btn-danger{
-	font-size: 12px;
+	font-size: 20px;
 	padding: 8px 15px;
 	border-radius: 8px;
 	font-family: 'Julius Sans One', sans-serif;
