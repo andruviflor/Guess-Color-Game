@@ -29,6 +29,21 @@ h1{
 	padding: 20px 0;
 }
 
+.btn btn-lg btn-danger{
+	background: red;
+	color:white;
+	font-size: 20px;
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+.popover-title {
+    color: blue;
+    font-size: 15px;
+}
+.popover-content {
+    color: red;
+    font-size: 10px;
+}
 #stripe{
 	background: white;
 	height: 30px;
