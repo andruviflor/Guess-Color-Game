@@ -36,14 +36,6 @@ h1{
 	font-family: 'Julius Sans One', sans-serif;
 }
 
-.popover-title {
-    color: blue;
-    font-size: 15px;
-}
-.popover-content {
-    color: red;
-    font-size: 10px;
-}
 #stripe{
 	background: white;
 	height: 30px;
